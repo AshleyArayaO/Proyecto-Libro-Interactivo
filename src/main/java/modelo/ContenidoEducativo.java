@@ -9,8 +9,7 @@ package modelo;
  * @author Thinkpad P52
  */
 
-public abstract class ContenidoEducativo
-        extends ElementoLibro {
+public abstract class ContenidoEducativo extends ElementoLibro {
 
     public ContenidoEducativo(String id, String titulo) {
         super(id, titulo);
